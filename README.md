@@ -4,7 +4,8 @@
 
 - golang: golang blog example
 - gobyexample: go by example blog examples
-- example: other 是其他例子
+- framework: famouse go framework examples
+- example: other examples
 
 ## waitting study issue
 
